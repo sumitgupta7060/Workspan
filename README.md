@@ -30,7 +30,7 @@ final.txt file has the complete report of URLs present in the url.txt file. The 
 noresponse.txt has the list of URLs which did not responded. The same file gets appended on next script run as well.
 
 ====================================================================================================
-The script covers below aspects:
+Covered below aspects:
 
 This script will be executed periodically -> using crontab
 
