@@ -1,0 +1,50 @@
+===================================================================================
+New report generated at Thu, 21 May, 2020 10:01:06 PM
+URL                      Response_Code    DNS_time        Connection_time         Total_time
+http://not-exist.com/abc.html           000     0.000000        0.000000        0.341379
+https://api.workspan.com/v1/person/me           000     0.557996        0.917903        2.000151
+https://a1234.execute-api.us-west.amazonaws.com/start/          000     0.000000        0.000000        0.042641
+http://www.youku.com            000     0.083027        1.289230        2.000125
+http://www.rakuten.co.jp                000     0.160636        0.339300        2.001483
+http://www.alipay.com           000     1.556248        0.000000        1.888477
+http://www.cntv.cn              000     0.000000        0.000000        2.075773
+===================================================================================
+New report generated at Thu, 21 May, 2020 10:07:30 PM
+URL                      Response_Code    DNS_time        Connection_time         Total_time
+http://not-exist.com/abc.html           000     0.000000        0.000000        0.341379
+https://api.workspan.com/v1/person/me           000     0.557996        0.917903        2.000151
+https://a1234.execute-api.us-west.amazonaws.com/start/          000     0.000000        0.000000        0.042641
+http://www.youku.com            000     0.083027        1.289230        2.000125
+http://www.rakuten.co.jp                000     0.160636        0.339300        2.001483
+http://www.alipay.com           000     1.556248        0.000000        1.888477
+http://www.cntv.cn              000     0.000000        0.000000        2.075773
+http://not-exist.com/abc.html           000     0.000000        0.000000        0.144105
+https://a1234.execute-api.us-west.amazonaws.com/start/          000     0.000000        0.000000        0.068527
+http://www.qq.com               000     0.041705        0.263934        2.001595
+http://www.360.cn               000     0.356868        1.853600        1.999995
+http://www.rakuten.co.jp                000     0.199711        0.308921        1.999473
+http://www.alipay.com           000     1.540221        0.000000        1.885902
+http://www.cntv.cn              000     1.906132        0.000000        1.976501
+===================================================================================
+New report generated at Thu, 21 May, 2020 10:17:30 PM
+URL                      Response_Code    DNS_time        Connection_time         Total_time
+http://not-exist.com/abc.html           000     0.000000        0.000000        0.341379
+https://api.workspan.com/v1/person/me           000     0.557996        0.917903        2.000151
+https://a1234.execute-api.us-west.amazonaws.com/start/          000     0.000000        0.000000        0.042641
+http://www.youku.com            000     0.083027        1.289230        2.000125
+http://www.rakuten.co.jp                000     0.160636        0.339300        2.001483
+http://www.alipay.com           000     1.556248        0.000000        1.888477
+http://www.cntv.cn              000     0.000000        0.000000        2.075773
+http://not-exist.com/abc.html           000     0.000000        0.000000        0.144105
+https://a1234.execute-api.us-west.amazonaws.com/start/          000     0.000000        0.000000        0.068527
+http://www.qq.com               000     0.041705        0.263934        2.001595
+http://www.360.cn               000     0.356868        1.853600        1.999995
+http://www.rakuten.co.jp                000     0.199711        0.308921        1.999473
+http://www.alipay.com           000     1.540221        0.000000        1.885902
+http://www.cntv.cn              000     1.906132        0.000000        1.976501
+http://not-exist.com/abc.html           000     0.000000        0.000000        0.365890
+https://a1234.execute-api.us-west.amazonaws.com/start/          000     0.000000        0.000000        0.085470
+http://www.qq.com               000     0.058810        0.259983        2.001348
+http://www.chinadaily.com.cn            000     1.269132        1.314925        1.999809
+http://www.rakuten.co.jp                000     0.229037        0.299521        1.999674
+http://www.soso.com             000     1.730220        0.000000        2.000053
