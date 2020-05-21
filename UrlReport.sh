@@ -14,7 +14,7 @@ while read LINE
         echo  "$LINE            $stat" >> final.txt
 done < url.txt
 
-cat final.txt
+#cat final.txt
 
 ##For alerts we can make use of below:
 mail -s "Complte URL report" user@example.com -A final.txt
