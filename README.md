@@ -16,13 +16,21 @@ Using CURL command we are recording the data of several URLs present in url.txt 
 Options used with curl command: 
 
 -o /dev/null throws away the usual output
+
 --silent throws away the progress meter
+
 --head makes a HEAD HTTP request, instead of GET
+
 -m maximum time in seconds that you allow the whole operation to take.
+
 -w Defines what to display on stdout after a completed and successful operation. 
+
 "%{http_code}" prints the required status code
+
 "%{time_namelookup}" prints the DNS time taken
+
 "%{time_connect}" prints the connection time taken
+
 "%{time_total}" prints the total time taken
 
 final.txt file has the complete report of URLs present in the url.txt file. The same file gets appended on next script run as well.
